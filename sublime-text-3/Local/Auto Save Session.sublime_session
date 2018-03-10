@@ -1,0 +1,2755 @@
+{
+	"folder_history":
+	[
+		"/var/www/transcargo.loc",
+		"/var/www/test.loc",
+		"/var/www/test",
+		"/var/www/start-template.loc",
+		"/var/www/portfolio.loc",
+		"/home/serii/Downloads/start-template.loc",
+		"/var/www/design-group.loc",
+		"/home/serii/Документы/virtualbox",
+		"/home/serii/Загрузки/flex-site.loc",
+		"/var/www/test.loc/src",
+		"/var/www/stepantev.loc",
+		"/home/serii/Books",
+		"/home/serii/Downloads/branches",
+		"/var/www/keksobooking.loc",
+		"/home/serii/.config/sublime-text-3",
+		"/var/www/test.site",
+		"/var/www/sass.loc",
+		"/home/serii/Documents/Cloud/Courses/Yii/Yii_Geekbrains",
+		"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar",
+		"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson6",
+		"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson5",
+		"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson4",
+		"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson4/web/js",
+		"/var/www/yii-shop.loc",
+		"/var/www/stepantev-homework.loc",
+		"/var/www/test.site/public_html"
+	],
+	"last_version": 3143,
+	"last_window_id": 191,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"simpl",
+						"simpleMessage"
+					],
+					[
+						"js-slid",
+						"js-slider-1\t(index.html)"
+					],
+					[
+						"bo",
+						"bower_components/"
+					],
+					[
+						"disable",
+						"disable\t(): void NativeScript - Module trace"
+					],
+					[
+						"addEve",
+						"addEventListener\t( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean ): any NativeScript - XMLHttpRequestEventTarget"
+					],
+					[
+						"query",
+						"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+					],
+					[
+						"current",
+						"currentColor"
+					],
+					[
+						"nextEle",
+						"nextElement"
+					],
+					[
+						"next",
+						"nextColor"
+					],
+					[
+						"nextElemen",
+						"nextElementArr[1"
+					],
+					[
+						"nextELement",
+						"nextElementSibling\t: Element Element"
+					],
+					[
+						"nextE",
+						"nextElementAttr"
+					],
+					[
+						"getElem",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+					],
+					[
+						"show",
+						"showBlock"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"previ",
+						"previousElementSibling\t: Element Element"
+					],
+					[
+						"getELe",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"getELeme",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+					],
+					[
+						"le",
+						"length\t: int String"
+					],
+					[
+						"thi",
+						"thirdElement"
+					],
+					[
+						"back",
+						"backgroundColor"
+					],
+					[
+						"cha",
+						"changeColor"
+					],
+					[
+						"queryS",
+						"querySelector\t( selectors: DOMString ): Element Element"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"che",
+						"checkAge"
+					],
+					[
+						"getTo",
+						"getTotalDist"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"lg",
+						"lg\tlg-media"
+					],
+					[
+						"cont",
+						"contacts-text\t(home.html)"
+					],
+					[
+						"social",
+						"social-item\t(home.html)"
+					],
+					[
+						"trans",
+						"transparent"
+					],
+					[
+						"u",
+						"url()"
+					],
+					[
+						"home",
+						"home-title\t(index.html)"
+					],
+					[
+						"open",
+						"opensans\t(_mixins.scss)"
+					],
+					[
+						"pa",
+						"partials\t(_start.scss)"
+					],
+					[
+						"im",
+						"import\t(_start.scss)"
+					],
+					[
+						"copy",
+						"copyright\t(end.html)"
+					],
+					[
+						"footer",
+						"footer-inner\t(end.html)"
+					],
+					[
+						"bot",
+						"bot\tbottom"
+					],
+					[
+						"gall",
+						"gallery--item"
+					],
+					[
+						"img",
+						"img-wrap\t(index.html)"
+					],
+					[
+						"g",
+						"gallery-1.jpg\tw:350 h:233"
+					],
+					[
+						"se",
+						"section-text\t(index.html)"
+					],
+					[
+						"secti",
+						"section-header\t(index.html)"
+					],
+					[
+						"section",
+						"section-title"
+					],
+					[
+						"sec",
+						"section-dark"
+					],
+					[
+						"fa",
+						"favicon:build"
+					],
+					[
+						"card",
+						"card-3"
+					],
+					[
+						"logo",
+						"logo.png"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"anim",
+						"animate\t.animate()"
+					],
+					[
+						"but",
+						"button"
+					],
+					[
+						"compl",
+						"complexex"
+					],
+					[
+						"com",
+						"complexex"
+					],
+					[
+						"fil",
+						"filterObj"
+					],
+					[
+						"comp",
+						"complexArr"
+					],
+					[
+						"su",
+						"submit\t(lab-2-1.js)"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"em",
+						"emptyField"
+					],
+					[
+						"remo",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"mouselea",
+						"mouseleave"
+					],
+					[
+						"form",
+						"form__title\t(lab-2-1.html)"
+					],
+					[
+						"hid",
+						"hidden\t(lab-2-1.html)"
+					],
+					[
+						"off",
+						"offset\t.offset()"
+					],
+					[
+						"to",
+						"toggle\t(demo-2-1.html)"
+					],
+					[
+						"lab",
+						"lab-1.js"
+					],
+					[
+						"s",
+						"script.js"
+					],
+					[
+						"va",
+						"value\tAttr"
+					],
+					[
+						"optin",
+						"option\tTag"
+					],
+					[
+						"toL",
+						"toLocaleDateString\t(): string Date"
+					],
+					[
+						"us",
+						"user"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 36.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"temr",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"terminal",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"findkey",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keybin",
+						"Preferences: Terminal View: Keybindings"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings"
+					],
+					[
+						"termin",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"packge",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"p",
+						"Preferences: Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"git stat",
+						"git: status"
+					],
+					[
+						"ky",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"all",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"finda",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"termina",
+						"Preferences: Terminal View: Readme"
+					],
+					[
+						"keycon",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"trem",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"git commi",
+						"git: commit"
+					],
+					[
+						"git push",
+						"git: push"
+					],
+					[
+						"git status",
+						"git: status"
+					],
+					[
+						"gulp",
+						"Gulp: Run last task"
+					],
+					[
+						"git log",
+						"git: log"
+					],
+					[
+						"run las",
+						"Gulp: Run last task"
+					],
+					[
+						"run last",
+						"Gulp: Run last task"
+					],
+					[
+						"gulp: list",
+						"Gulp: List plugins"
+					],
+					[
+						"github",
+						"github: open repo"
+					],
+					[
+						"git graph",
+						"git: graph"
+					],
+					[
+						"log",
+						"git: log"
+					],
+					[
+						"githu",
+						"git: graph current file"
+					],
+					[
+						"statu",
+						"git: status"
+					],
+					[
+						"git loc",
+						"git: log current file"
+					],
+					[
+						"sta",
+						"git: status"
+					],
+					[
+						"status",
+						"git: status"
+					],
+					[
+						"git bra",
+						"git: branch"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"local",
+						"Local History: Open"
+					],
+					[
+						"loc",
+						"Local History: Save Now"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"diff",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"locl",
+						"Local History: Browse in Explorer"
+					],
+					[
+						"loca",
+						"Local History: Menu"
+					],
+					[
+						"findk",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"emmet: ",
+						"Emmet: Split\\Join Tag"
+					],
+					[
+						"k",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"prefe",
+						"Preferences: Key Bindings"
+					],
+					[
+						"find",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"task",
+						"Tasks: Complete"
+					],
+					[
+						"packages",
+						"Preferences: Browse Packages"
+					],
+					[
+						"auto",
+						"AutoBackups: Open Backups Folder"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"packagelist",
+						"Package Control: List Packages"
+					],
+					[
+						"run",
+						"Run CSScomb"
+					],
+					[
+						"csscom",
+						"Run CSScomb"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"bea",
+						"SassBeautify"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disal",
+						"Package Control: Disable Package"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"manager",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"history",
+						"Local History: Snapshots"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pretti",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"git commit",
+						"Git: Commit history"
+					],
+					[
+						"git commit hi",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"web",
+						"Set Syntax: Web Inspector (Stack)"
+					],
+					[
+						"we",
+						"Set Syntax: Web Inspector (Log)"
+					],
+					[
+						"git hi",
+						"Github: History"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"gutter",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"git ",
+						"Github: History"
+					],
+					[
+						"git gu",
+						"GitGutter: Support Info"
+					],
+					[
+						"git sta",
+						"GitStatus: Changed files"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"jslint",
+						"Build With: JSLint"
+					],
+					[
+						"package settin",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"",
+						"BracketHighlighter: Documentation"
+					],
+					[
+						"instlall",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"s",
+						"SassBeautify"
+					],
+					[
+						"sass ",
+						"SassBeautify"
+					]
+				],
+				"width": 537.0
+			},
+			"console":
+			{
+				"height": 165.0,
+				"history":
+				[
+					"exit"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/test.loc/script.js",
+				"/var/www/test.loc/Chapter 2/02_02/final/execs.html",
+				"/var/www/test.loc/Chapter 2/02_01/start/execs.html",
+				"/var/www/test.loc/Chapter 1/01_02/execs.html",
+				"/var/www/test.loc/index.html",
+				"/home/serii/settings/sublime-text-3/Packages/User/AceJump.sublime-settings",
+				"/var/www/design-group.loc/gulpfile.js",
+				"/var/www/test.loc/style.css",
+				"/var/www/test.loc/README.txt",
+				"/home/serii/settings/sublime-text-3/Packages/User/css_style_completions.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Emmet.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/tmp/isnumeric",
+				"/var/www/transcargo.loc/src/templates/head.html",
+				"/var/www/transcargo.loc/src/assets/header/header.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/var/www/transcargo.loc/src/home.html",
+				"/home/serii/Settings/sublime-text-3/Packages/User/md-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/xl-meida.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/sm-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/xs-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/cus-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/lg-media.sublime-snippet",
+				"/var/www/transcargo.loc/src/assets/sass/home.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/User/html-comment.sublime-snippet",
+				"/var/www/transcargo.loc/node_modules/imagemin-svgo/node_modules/csso/lib/replace/property/font.js",
+				"/var/www/test.loc/.gitignore",
+				"/var/www/test.loc/src/index.html",
+				"/var/www/test.loc/src/assets/sass/home.scss",
+				"/var/www/test.loc/src/templates/end.html",
+				"/var/www/test.loc/src/assets/i/home/mac.png",
+				"/var/www/start-template.loc/src/assets/sass/style.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/TerminalView/README.md",
+				"/var/www/start-template.loc/src/assets/header/header.scss",
+				"/var/www/start-template.loc/gulpfile.js",
+				"/var/www/start-template.loc/src/index.html",
+				"/var/www/start-template.loc/src/assets/sass/partials/_variables.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_start.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_sprite_template.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_mixins.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_icons.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_iconmoon.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_fonts.scss",
+				"/var/www/start-template.loc/src/assets/js/main.js",
+				"/var/www/start-template.loc/src/templates/end.html",
+				"/var/www/start-template.loc/src/templates/head.html",
+				"/home/serii/Документы/virtualbox/hat.svg",
+				"/var/www/test.loc/style.scss",
+				"/var/www/test.loc/Gulp Results",
+				"/var/www/test.loc/src/templates/head.html",
+				"/var/www/test.loc/src/assets/header/header.scss",
+				"/var/www/test.loc/gulpfile.js",
+				"/var/www/test.loc/src/assets/libs/bootstrap/bootstrap.js",
+				"/home/serii/Settings/sublime-text-3/Packages/Gulp/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Gulp.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Gulp/Gulp.sublime-settings",
+				"/var/www/test.loc/src/assets/sass/style.scss",
+				"/var/www/test.loc/node_modules/glob-watcher/test/main.js",
+				"/var/www/test.loc/node_modules/fontfacegen/lib/stylesheets.js",
+				"/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/src/index-20171219001110.html",
+				"/home/serii/Settings/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/var/www/test.loc/build/index.html",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/build/index-20171219000932.html",
+				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/serii/Загрузки/flex-site.loc/build/index.html",
+				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
+				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
+				"/tmp/mail.php",
+				"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/var/www/test.loc/test.loc.todo",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
+				"/home/serii/Settings/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/BufferScroll.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/BufferScroll/BufferScroll.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/Default.sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/Inc-Dec-Value/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/hotkeys-sublime.txt",
+				"/home/serii/Settings/sublime-text-3/Packages/User/CSScomb.sublime-settings",
+				"/var/www/test.loc/.csscomb.json",
+				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/README.md",
+				"/var/www/test.loc/build/assets/css/style.css",
+				"/var/www/test.loc/build/assets/js/main.js",
+				"/var/www/test.loc/package.json",
+				"/home/serii/Settings/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/var/www/test.loc/src/assets/sass/bootstrap_skin.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/zzz A File Icon zzz/patches/general/multi/Default.sublime-theme",
+				"/var/www/stepantev.loc/index.html",
+				"/home/serii/Downloads/branches/README.txt",
+				"/home/serii/.config/sublime-text-3/.sublime/Local History/var/www/stepantev.loc/index-20171123154210.html",
+				"/home/serii/.config/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+				"/home/serii/.config/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
+				"/var/www/test.site/labs/lab-3-2.html",
+				"/var/www/test.site/module-3/demo-3-2.html",
+				"/var/www/test.site/module-3/demo-3-1.html",
+				"/var/www/test.site/labs/lab-3-1.html",
+				"/var/www/test.site/labs/lab-2-2.html",
+				"/var/www/test.site/js/lab-1.js",
+				"/var/www/test.site/module-2/demo-2-3.html",
+				"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/serii/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+				"/var/www/test.site/module-2/demo-2-2.html",
+				"/var/www/test.site/js/lab-2-1.js",
+				"/var/www/test.site/labs/lab-2-1.html",
+				"/var/www/test.site/css/style.css",
+				"/var/www/test.site/module-2/demo-2-1.html",
+				"/var/www/test.site/js/module-2/module-2.js",
+				"/var/www/test.site/index.html",
+				"/var/www/test.site/labs/lab-1.html",
+				"/var/www/test.site/script.js",
+				"/var/www/test.site/style.css",
+				"/home/serii/Документы/Cloud/Courses/JavaScript/Kantor/09/Log_29_05_2017.html"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 117.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"link",
+					"big"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.GitSavvy":
+			{
+				"height": 128.0
+			},
+			"output.clipboard_manager":
+			{
+				"height": 152.0
+			},
+			"output.exec":
+			{
+				"height": 208.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 152.0
+			},
+			"output.gulp_output":
+			{
+				"height": 412.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"s",
+						"script.js"
+					],
+					[
+						"",
+						"script.js"
+					],
+					[
+						"e",
+						"index.html"
+					],
+					[
+						"execs",
+						"Chapter 2/02_02/final/execs.html"
+					],
+					[
+						"sc",
+						"script.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"index.",
+						"src/index.html"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"head.ht",
+						"src/templates/head.html"
+					],
+					[
+						"gull",
+						"gulpfile.js"
+					],
+					[
+						"gulpf",
+						"gulpfile.js"
+					],
+					[
+						"style.sc",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"index.ht",
+						"src/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"main.js",
+						"src/assets/js/main.js"
+					],
+					[
+						"head",
+						"src/templates/head.html"
+					],
+					[
+						"style.scs",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"style.",
+						"style.css"
+					],
+					[
+						"style",
+						"style.css"
+					],
+					[
+						"scri",
+						"script.js"
+					],
+					[
+						"index",
+						"src/index.html"
+					],
+					[
+						"header",
+						"src/assets/header/header.scss"
+					],
+					[
+						"mix",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"vari",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"home.sc",
+						"src/assets/sass/home.scss"
+					],
+					[
+						"home.scss",
+						"src/assets/sass/home.scss"
+					],
+					[
+						"snippet",
+						"node_modules/imagemin-svgo/node_modules/csso/lib/replace/property/font.js"
+					],
+					[
+						"_mix",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"variables",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"header.s",
+						"src/assets/header/header.scss"
+					],
+					[
+						"home",
+						"src/home.html"
+					],
+					[
+						"end",
+						"src/templates/end.html"
+					],
+					[
+						"variables.sc",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"_mixi",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"home.scs",
+						"src/assets/sass/home.scss"
+					],
+					[
+						"varia",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"start",
+						"src/assets/sass/partials/_start.scss"
+					],
+					[
+						"sprite_",
+						"src/assets/sass/partials/_sprite_template.scss"
+					],
+					[
+						"mixins",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"icons.sc",
+						"src/assets/sass/partials/_icons.scss"
+					],
+					[
+						"iconmoo",
+						"src/assets/sass/partials/_iconmoon.scss"
+					],
+					[
+						"font.sc",
+						"src/assets/sass/partials/_fonts.scss"
+					],
+					[
+						"main",
+						"src/assets/js/main.js"
+					],
+					[
+						"style.s",
+						"style.scss"
+					],
+					[
+						"stle",
+						"style.css"
+					],
+					[
+						"_var",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"header.sc",
+						"src/assets/header/header.scss"
+					],
+					[
+						"gulpfi",
+						"gulpfile.js"
+					],
+					[
+						"inde.",
+						"build/index.html"
+					],
+					[
+						"styl",
+						"build/assets/css/style.css"
+					],
+					[
+						"packag",
+						"package.json"
+					],
+					[
+						"boots",
+						"src/assets/sass/bootstrap_skin.scss"
+					],
+					[
+						"re",
+						"README.md"
+					],
+					[
+						"lab-3-2",
+						"labs/lab-3-2.html"
+					],
+					[
+						"demo",
+						"module-3/demo-3-2.html"
+					],
+					[
+						"labs-3-1",
+						"labs/lab-3-1.html"
+					],
+					[
+						"lab",
+						"js/lab-1.js"
+					],
+					[
+						"dem",
+						"module-2/demo-2-3.html"
+					],
+					[
+						"demo-",
+						"module-2/demo-2-2.html"
+					],
+					[
+						"lab-2",
+						"js/lab-2-1.js"
+					],
+					[
+						"module.",
+						"js/module-2/module-2.js"
+					],
+					[
+						"module-2.js",
+						"js/module-2/module-2.js"
+					],
+					[
+						"lab-1.js",
+						"js/lab-1.js"
+					],
+					[
+						"script",
+						"script.js"
+					],
+					[
+						"scr",
+						"public_html/script.js"
+					],
+					[
+						"scrip",
+						"public_html/script.js"
+					],
+					[
+						"scritp",
+						"public_html/script.js"
+					],
+					[
+						"sytl",
+						"public_html/style.css"
+					],
+					[
+						".es",
+						".eslintrc"
+					],
+					[
+						".gi",
+						".gitignore"
+					],
+					[
+						"scit",
+						"public_html/script.js"
+					],
+					[
+						"iin",
+						"public_html/index.html"
+					],
+					[
+						"bun",
+						"public/bundle.min.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/var/www/portfolio.loc/portfolio.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"simpl",
+						"simpleMessage"
+					],
+					[
+						"js-slid",
+						"js-slider-1\t(index.html)"
+					],
+					[
+						"bo",
+						"bower_components/"
+					],
+					[
+						"disable",
+						"disable\t(): void NativeScript - Module trace"
+					],
+					[
+						"addEve",
+						"addEventListener\t( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean ): any NativeScript - XMLHttpRequestEventTarget"
+					],
+					[
+						"query",
+						"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+					],
+					[
+						"current",
+						"currentColor"
+					],
+					[
+						"nextEle",
+						"nextElement"
+					],
+					[
+						"next",
+						"nextColor"
+					],
+					[
+						"nextElemen",
+						"nextElementArr[1"
+					],
+					[
+						"nextELement",
+						"nextElementSibling\t: Element Element"
+					],
+					[
+						"nextE",
+						"nextElementAttr"
+					],
+					[
+						"getElem",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+					],
+					[
+						"show",
+						"showBlock"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"previ",
+						"previousElementSibling\t: Element Element"
+					],
+					[
+						"getELe",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"getELeme",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+					],
+					[
+						"le",
+						"length\t: int String"
+					],
+					[
+						"thi",
+						"thirdElement"
+					],
+					[
+						"back",
+						"backgroundColor"
+					],
+					[
+						"cha",
+						"changeColor"
+					],
+					[
+						"queryS",
+						"querySelector\t( selectors: DOMString ): Element Element"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"che",
+						"checkAge"
+					],
+					[
+						"getTo",
+						"getTotalDist"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"lg",
+						"lg\tlg-media"
+					],
+					[
+						"cont",
+						"contacts-text\t(home.html)"
+					],
+					[
+						"social",
+						"social-item\t(home.html)"
+					],
+					[
+						"trans",
+						"transparent"
+					],
+					[
+						"u",
+						"url()"
+					],
+					[
+						"home",
+						"home-title\t(index.html)"
+					],
+					[
+						"open",
+						"opensans\t(_mixins.scss)"
+					],
+					[
+						"pa",
+						"partials\t(_start.scss)"
+					],
+					[
+						"im",
+						"import\t(_start.scss)"
+					],
+					[
+						"copy",
+						"copyright\t(end.html)"
+					],
+					[
+						"footer",
+						"footer-inner\t(end.html)"
+					],
+					[
+						"bot",
+						"bot\tbottom"
+					],
+					[
+						"gall",
+						"gallery--item"
+					],
+					[
+						"img",
+						"img-wrap\t(index.html)"
+					],
+					[
+						"g",
+						"gallery-1.jpg\tw:350 h:233"
+					],
+					[
+						"se",
+						"section-text\t(index.html)"
+					],
+					[
+						"secti",
+						"section-header\t(index.html)"
+					],
+					[
+						"section",
+						"section-title"
+					],
+					[
+						"sec",
+						"section-dark"
+					],
+					[
+						"fa",
+						"favicon:build"
+					],
+					[
+						"card",
+						"card-3"
+					],
+					[
+						"logo",
+						"logo.png"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"anim",
+						"animate\t.animate()"
+					],
+					[
+						"but",
+						"button"
+					],
+					[
+						"compl",
+						"complexex"
+					],
+					[
+						"com",
+						"complexex"
+					],
+					[
+						"fil",
+						"filterObj"
+					],
+					[
+						"comp",
+						"complexArr"
+					],
+					[
+						"su",
+						"submit\t(lab-2-1.js)"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"em",
+						"emptyField"
+					],
+					[
+						"remo",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"mouselea",
+						"mouseleave"
+					],
+					[
+						"form",
+						"form__title\t(lab-2-1.html)"
+					],
+					[
+						"hid",
+						"hidden\t(lab-2-1.html)"
+					],
+					[
+						"off",
+						"offset\t.offset()"
+					],
+					[
+						"to",
+						"toggle\t(demo-2-1.html)"
+					],
+					[
+						"lab",
+						"lab-1.js"
+					],
+					[
+						"s",
+						"script.js"
+					],
+					[
+						"va",
+						"value\tAttr"
+					],
+					[
+						"optin",
+						"option\tTag"
+					],
+					[
+						"toL",
+						"toLocaleDateString\t(): string Date"
+					],
+					[
+						"us",
+						"user"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nJavaScript Completions\n----------------------\n\n  v2.6.98\n  \n  ## Fixes\n  \n  - #48, keymap update on Windows, now bindings are like Super + Alt + <alphanum>\n  - AttributeError: 'NoneType' object has no attribute 'get' #49\n  \n  🎉🎉 ANNOUNCEMENT - NEW PLUGIN \"JavaScript Enhancements\" RELEASED 🎉🎉\n  =======================================================================\n  \n  I developed a new plugin with new features thanks to Flow (javascript static type checker from Facebook).\n  \n  So, I will NO LONGER SUPPORT \"JavaScript Completions\" plugin, except in particular cases. \n  I'm going to focus only on this new one!\n  \n  You can find it on: 👉👉 https://github.com/pichillilorenzo/JavaScriptEnhancements 👈👈\n  \n  This new plugin offers not only a BETTER AUTOCOMPLETE but a lot of FEATURES about creating, \n  developing and managing javascript projects, such as:\n  \n  - JavaScript real-time errors\n  - Code Refactoring\n  - Local bookmarks project\n  - Cordova projects (run cordova emulate, build, compile, serve, etc. directly from Sublime Text!)\n  - Ionic v1 and v2 (it includes also v3) projects (same as Cordova projects!)\n  - Angular v1 and v2 (it includes also v4 and v5) projects\n  - React projects (only about the creation at this moment)\n  - React Native projects (only about the creation at this moment. I will add also **NativeScript** support)\n  - Express projects (only about the creation at this moment)\n  - Yeoman generators\n  - etc.\n  \n  You could use it also in existing projects!! \n  \n  SEE the Wiki - https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki\n  to get the complete list of the features that it offers!\n  \n  It will turn Sublime Text into a JavaScript IDE like!\n  =====================================================\n  \n  ## OS SUPPORTED NOW by this new plugin:\n  =======================================\n  \n  👉 Linux (64-bit)\n  👉 Mac OS X \n  👉 Windows (64-bit): released without the use of TerminalView plugin. For each feature (like also creating a project) will be used the cmd.exe shell (so during the creation of a project don't close it until it finishes!). Unfortunately the TerminalView plugin supports only Linux-based OS 😞 . Has someone any advice or idea about that? Is there something similar to the TerminalView plugin for Windows?? Thanks!\n  \n  Email me for any questions or doubts about this new project on: pichillilorenzo@gmail.com\n  \n  Thanks for your support!!!\n\n\nSublimeLinter\n-------------\n\n  SublimeLinter 4.0.3\n  ======================\n  \n  Introduces settings to customize the information in the status bar\n  \n  - \"statusbar.counters_template\"\n    configure if and how how W:/E: counters appear in the status bar\n  - \"statusbar.messages_template\"\n    configure that for the messages for the problem at your cursor\n\n  SublimeLinter 4.0.1\n  ======================\n  \n  Introduces highlights.demote_scope\n  \n  Did you see the settings \"highlights.*\"? We have a new one:\n  \n  \"highlights.demote_scope\"\n  \n  Set it to the empty string to actually hide regions while editing.\n  Set it to a scope to change their appearance, e.g. \"comment\" to draw\n  them in a soft color.\n\n  SublimeLinter 4.0\n  ===========================================\n  \n  You can find this text at\n  https://raw.githubusercontent.com/SublimeLinter/SublimeLinter/master/messages/4.0.0.txt\n  \n  ####################################################\n  #                                                  #\n  #  Please restart Sublime Text before continuing!  #\n  #                                                  #\n  ####################################################\n  \n  \n  New features\n  -------------------------------------------\n  \n  - Hover over an error to view the message.\n  - Hover over the gutter to view all error messages for that line.\n  - The statusbar now shows error (E) and warning (W) counts if there are any.\n  - The statusbar shows the error for your cursor position instead of all errors\n    for that line.\n  - A panel displays errors in all open files.\n  - The panel can be filtered to just show specific types or severity level.\n  - Jump between errors in the current file with sublime_linter_goto_error.\n  - A new \"styles\" setting to configure error highlighting.\n  - Each linter setting now accepts such a \"styles\" setting, so colors, icons and\n    highlight style can be differentiated per linter.\n  - Styles also have a \"priority\" which decides what icon to show in the gutter.\n  - Gutter themes can now be set using just their name.\n  - Gutter themes can now have multiple icons, selectable by just their name.\n    In the \"Default\" theme: diamond, heart, square, star, triangle and more!\n  - No \"(SL)\" color scheme files are generated, in stead relying on common scopes.\n  - It's possible to use a color by specifying any scope that's in your color\n    scheme (e.g. \"entity.name\")\n  - If you're using ST dev builds you can change colors by specifying\n    \"region.<colorish>\" in the scope option. Colors:\n    redish, orangish, yellowish, greenish, bluish, purplish, pinkish\n  - SublimeLinter will no longer be visible under Packages/SublimeLinter, so you\n    cannot edit its code directly. If you want to make changes you can clone the\n    repo into Packages. If you fix a bug, please share it with the world with a\n    pull request!\n  \n  \n  Changes to commands, menus and key bindings\n  -------------------------------------------\n  \n  The context menu now only lists the Lint This View command.\n  The tools menu has been removed.\n  Commands are now named sublime_linter_* to comply with naming conventions.\n  \n  Commands to change settings or toggle linters have been removed.\n  - Settings can be changed by modifying your user settings.\n  - Linters may be disabled in the user settings,\n    or in your project configuration.\n  \n  \n  Changes to settings\n  -------------------------------------------\n  \n  Default settings now have documentation in line.\n  Default settings can no longer be edited.\n  Default settings are no longer copied to the user settings.\n  - Learn about the configuration options for each linter in the docs and\n    in the README of the linter plugin.\n  \n  The \"user\" node has been removed from settings.\n  A python version can no longer be set globally.\n  The \"chdir\" setting has been renamed to \"working_dir\".\n  \n  The settings \"ignore_matches\" and \"demote_to_warning_matches\" have been removed.\n  Your linter should have settings to modify the rules or severity levels.\n  \n  Settings tokens (e.g. ${folder}) are now expanded using SublimeText features,\n  so there are more tokens you can use. The docs covers this in more detail.\n  \n  The new output panel and filtering have supplanted the \"make_warnings_passive\"\n  and \"show_errors_on_save\" features.\n  \n  Settings can be specified in your user settings, or in project configuration\n  (*.sublime-project files). Inline settings, inline overrides, shebang settings\n  and .sublimelinterrc files are no longer supported.\n  \n  \n  How to upgrade\n  -------------------------------\n  \n  Your old settings will be backed up to SublimeLinter old.sublime-settings.\n  You may want to compare them to the new default settings and check if you want\n  to migrate anything.\n  \n  To migrate your settings, first remove the \"user\" level and un-indent/flatten\n  everything a level. Check the default settings to remove settings that don't\n  exist anymore:\n  \n  - mark_style\n  - error_color\n  - gutter_theme_excludes\n  - passive_warnings\n  - show_errors_on_save\n  - tooltip_fontsize, tooltip_theme, tooltip_theme_excludes, tooltips\n  - warning_color\n  - wrap_find\n  - python_paths\n  \n  You can keep the \"linters\" settings block if it contains customizations that\n  you need. It's also safe to remove it otherwise.\n  Note that \"@disable\" is now \"disable\", without the \"@\".\n  \n  If you use the ${project} settings token you should change that to ${folder}.\n  \n  You can now change your color scheme to one without the (SL) suffix. After\n  doing so you can remove the Packages/User/SublimeLinter directory. It holds\n  augmented color schemes that are no longer needed.\n",
+					"settings":
+					{
+						"buffer_size": 8127,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 36.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"temr",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"terminal",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"findkey",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keybin",
+						"Preferences: Terminal View: Keybindings"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings"
+					],
+					[
+						"termin",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"packge",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"p",
+						"Preferences: Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"git stat",
+						"git: status"
+					],
+					[
+						"ky",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"all",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"finda",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"termina",
+						"Preferences: Terminal View: Readme"
+					],
+					[
+						"keycon",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"trem",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"git commi",
+						"git: commit"
+					],
+					[
+						"git push",
+						"git: push"
+					],
+					[
+						"git status",
+						"git: status"
+					],
+					[
+						"gulp",
+						"Gulp: Run last task"
+					],
+					[
+						"git log",
+						"git: log"
+					],
+					[
+						"run las",
+						"Gulp: Run last task"
+					],
+					[
+						"run last",
+						"Gulp: Run last task"
+					],
+					[
+						"gulp: list",
+						"Gulp: List plugins"
+					],
+					[
+						"github",
+						"github: open repo"
+					],
+					[
+						"git graph",
+						"git: graph"
+					],
+					[
+						"log",
+						"git: log"
+					],
+					[
+						"githu",
+						"git: graph current file"
+					],
+					[
+						"statu",
+						"git: status"
+					],
+					[
+						"git loc",
+						"git: log current file"
+					],
+					[
+						"sta",
+						"git: status"
+					],
+					[
+						"status",
+						"git: status"
+					],
+					[
+						"git bra",
+						"git: branch"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"local",
+						"Local History: Open"
+					],
+					[
+						"loc",
+						"Local History: Save Now"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"diff",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"locl",
+						"Local History: Browse in Explorer"
+					],
+					[
+						"loca",
+						"Local History: Menu"
+					],
+					[
+						"findk",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"emmet: ",
+						"Emmet: Split\\Join Tag"
+					],
+					[
+						"k",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"prefe",
+						"Preferences: Key Bindings"
+					],
+					[
+						"find",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"task",
+						"Tasks: Complete"
+					],
+					[
+						"packages",
+						"Preferences: Browse Packages"
+					],
+					[
+						"auto",
+						"AutoBackups: Open Backups Folder"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"packagelist",
+						"Package Control: List Packages"
+					],
+					[
+						"run",
+						"Run CSScomb"
+					],
+					[
+						"csscom",
+						"Run CSScomb"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"bea",
+						"SassBeautify"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disal",
+						"Package Control: Disable Package"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"manager",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"history",
+						"Local History: Snapshots"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pretti",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"git commit",
+						"Git: Commit history"
+					],
+					[
+						"git commit hi",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"web",
+						"Set Syntax: Web Inspector (Stack)"
+					],
+					[
+						"we",
+						"Set Syntax: Web Inspector (Log)"
+					],
+					[
+						"git hi",
+						"Github: History"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"gutter",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"git ",
+						"Github: History"
+					],
+					[
+						"git gu",
+						"GitGutter: Support Info"
+					],
+					[
+						"git sta",
+						"GitStatus: Changed files"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"jslint",
+						"Build With: JSLint"
+					],
+					[
+						"package settin",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"",
+						"BracketHighlighter: Documentation"
+					],
+					[
+						"instlall",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"s",
+						"SassBeautify"
+					],
+					[
+						"sass ",
+						"SassBeautify"
+					]
+				],
+				"width": 537.0
+			},
+			"console":
+			{
+				"height": 165.0,
+				"history":
+				[
+					"exit"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/test.loc/script.js",
+				"/var/www/test.loc/Chapter 2/02_02/final/execs.html",
+				"/var/www/test.loc/Chapter 2/02_01/start/execs.html",
+				"/var/www/test.loc/Chapter 1/01_02/execs.html",
+				"/var/www/test.loc/index.html",
+				"/home/serii/settings/sublime-text-3/Packages/User/AceJump.sublime-settings",
+				"/var/www/design-group.loc/gulpfile.js",
+				"/var/www/test.loc/style.css",
+				"/var/www/test.loc/README.txt",
+				"/home/serii/settings/sublime-text-3/Packages/User/css_style_completions.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Emmet.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/tmp/isnumeric",
+				"/var/www/transcargo.loc/src/templates/head.html",
+				"/var/www/transcargo.loc/src/assets/header/header.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/var/www/transcargo.loc/src/home.html",
+				"/home/serii/Settings/sublime-text-3/Packages/User/md-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/xl-meida.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/sm-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/xs-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/cus-media.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/User/lg-media.sublime-snippet",
+				"/var/www/transcargo.loc/src/assets/sass/home.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/User/html-comment.sublime-snippet",
+				"/var/www/transcargo.loc/node_modules/imagemin-svgo/node_modules/csso/lib/replace/property/font.js",
+				"/var/www/test.loc/.gitignore",
+				"/var/www/test.loc/src/index.html",
+				"/var/www/test.loc/src/assets/sass/home.scss",
+				"/var/www/test.loc/src/templates/end.html",
+				"/var/www/test.loc/src/assets/i/home/mac.png",
+				"/var/www/start-template.loc/src/assets/sass/style.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/TerminalView/README.md",
+				"/var/www/start-template.loc/src/assets/header/header.scss",
+				"/var/www/start-template.loc/gulpfile.js",
+				"/var/www/start-template.loc/src/index.html",
+				"/var/www/start-template.loc/src/assets/sass/partials/_variables.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_start.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_sprite_template.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_mixins.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_icons.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_iconmoon.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_fonts.scss",
+				"/var/www/start-template.loc/src/assets/js/main.js",
+				"/var/www/start-template.loc/src/templates/end.html",
+				"/var/www/start-template.loc/src/templates/head.html",
+				"/home/serii/Документы/virtualbox/hat.svg",
+				"/var/www/test.loc/style.scss",
+				"/var/www/test.loc/Gulp Results",
+				"/var/www/test.loc/src/templates/head.html",
+				"/var/www/test.loc/src/assets/header/header.scss",
+				"/var/www/test.loc/gulpfile.js",
+				"/var/www/test.loc/src/assets/libs/bootstrap/bootstrap.js",
+				"/home/serii/Settings/sublime-text-3/Packages/Gulp/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Gulp.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Gulp/Gulp.sublime-settings",
+				"/var/www/test.loc/src/assets/sass/style.scss",
+				"/var/www/test.loc/node_modules/glob-watcher/test/main.js",
+				"/var/www/test.loc/node_modules/fontfacegen/lib/stylesheets.js",
+				"/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/src/index-20171219001110.html",
+				"/home/serii/Settings/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/var/www/test.loc/build/index.html",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/build/index-20171219000932.html",
+				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/serii/Загрузки/flex-site.loc/build/index.html",
+				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
+				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
+				"/tmp/mail.php",
+				"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/var/www/test.loc/test.loc.todo",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
+				"/home/serii/Settings/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/BufferScroll.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/BufferScroll/BufferScroll.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/Default.sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/Inc-Dec-Value/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/hotkeys-sublime.txt",
+				"/home/serii/Settings/sublime-text-3/Packages/User/CSScomb.sublime-settings",
+				"/var/www/test.loc/.csscomb.json",
+				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/README.md",
+				"/var/www/test.loc/build/assets/css/style.css",
+				"/var/www/test.loc/build/assets/js/main.js",
+				"/var/www/test.loc/package.json",
+				"/home/serii/Settings/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/var/www/test.loc/src/assets/sass/bootstrap_skin.scss",
+				"/home/serii/Settings/sublime-text-3/Packages/zzz A File Icon zzz/patches/general/multi/Default.sublime-theme",
+				"/var/www/stepantev.loc/index.html",
+				"/home/serii/Downloads/branches/README.txt",
+				"/home/serii/.config/sublime-text-3/.sublime/Local History/var/www/stepantev.loc/index-20171123154210.html",
+				"/home/serii/.config/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+				"/home/serii/.config/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
+				"/var/www/test.site/labs/lab-3-2.html",
+				"/var/www/test.site/module-3/demo-3-2.html",
+				"/var/www/test.site/module-3/demo-3-1.html",
+				"/var/www/test.site/labs/lab-3-1.html",
+				"/var/www/test.site/labs/lab-2-2.html",
+				"/var/www/test.site/js/lab-1.js",
+				"/var/www/test.site/module-2/demo-2-3.html",
+				"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/serii/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+				"/var/www/test.site/module-2/demo-2-2.html",
+				"/var/www/test.site/js/lab-2-1.js",
+				"/var/www/test.site/labs/lab-2-1.html",
+				"/var/www/test.site/css/style.css",
+				"/var/www/test.site/module-2/demo-2-1.html",
+				"/var/www/test.site/js/module-2/module-2.js",
+				"/var/www/test.site/index.html",
+				"/var/www/test.site/labs/lab-1.html",
+				"/var/www/test.site/script.js",
+				"/var/www/test.site/style.css",
+				"/home/serii/Документы/Cloud/Courses/JavaScript/Kantor/09/Log_29_05_2017.html"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 117.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8127,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8127,
+										8127
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"auto_indent": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.GitSavvy":
+			{
+				"height": 128.0
+			},
+			"output.clipboard_manager":
+			{
+				"height": 152.0
+			},
+			"output.exec":
+			{
+				"height": 208.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 152.0
+			},
+			"output.gulp_output":
+			{
+				"height": 412.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,25,640,505,1440,900",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"s",
+						"script.js"
+					],
+					[
+						"",
+						"script.js"
+					],
+					[
+						"e",
+						"index.html"
+					],
+					[
+						"execs",
+						"Chapter 2/02_02/final/execs.html"
+					],
+					[
+						"sc",
+						"script.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"index.",
+						"src/index.html"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"head.ht",
+						"src/templates/head.html"
+					],
+					[
+						"gull",
+						"gulpfile.js"
+					],
+					[
+						"gulpf",
+						"gulpfile.js"
+					],
+					[
+						"style.sc",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"index.ht",
+						"src/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"main.js",
+						"src/assets/js/main.js"
+					],
+					[
+						"head",
+						"src/templates/head.html"
+					],
+					[
+						"style.scs",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"style.",
+						"style.css"
+					],
+					[
+						"style",
+						"style.css"
+					],
+					[
+						"scri",
+						"script.js"
+					],
+					[
+						"index",
+						"src/index.html"
+					],
+					[
+						"header",
+						"src/assets/header/header.scss"
+					],
+					[
+						"mix",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"vari",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"home.sc",
+						"src/assets/sass/home.scss"
+					],
+					[
+						"home.scss",
+						"src/assets/sass/home.scss"
+					],
+					[
+						"snippet",
+						"node_modules/imagemin-svgo/node_modules/csso/lib/replace/property/font.js"
+					],
+					[
+						"_mix",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"variables",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"header.s",
+						"src/assets/header/header.scss"
+					],
+					[
+						"home",
+						"src/home.html"
+					],
+					[
+						"end",
+						"src/templates/end.html"
+					],
+					[
+						"variables.sc",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"_mixi",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"home.scs",
+						"src/assets/sass/home.scss"
+					],
+					[
+						"varia",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"start",
+						"src/assets/sass/partials/_start.scss"
+					],
+					[
+						"sprite_",
+						"src/assets/sass/partials/_sprite_template.scss"
+					],
+					[
+						"mixins",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"icons.sc",
+						"src/assets/sass/partials/_icons.scss"
+					],
+					[
+						"iconmoo",
+						"src/assets/sass/partials/_iconmoon.scss"
+					],
+					[
+						"font.sc",
+						"src/assets/sass/partials/_fonts.scss"
+					],
+					[
+						"main",
+						"src/assets/js/main.js"
+					],
+					[
+						"style.s",
+						"style.scss"
+					],
+					[
+						"stle",
+						"style.css"
+					],
+					[
+						"_var",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"header.sc",
+						"src/assets/header/header.scss"
+					],
+					[
+						"gulpfi",
+						"gulpfile.js"
+					],
+					[
+						"inde.",
+						"build/index.html"
+					],
+					[
+						"styl",
+						"build/assets/css/style.css"
+					],
+					[
+						"packag",
+						"package.json"
+					],
+					[
+						"boots",
+						"src/assets/sass/bootstrap_skin.scss"
+					],
+					[
+						"re",
+						"README.md"
+					],
+					[
+						"lab-3-2",
+						"labs/lab-3-2.html"
+					],
+					[
+						"demo",
+						"module-3/demo-3-2.html"
+					],
+					[
+						"labs-3-1",
+						"labs/lab-3-1.html"
+					],
+					[
+						"lab",
+						"js/lab-1.js"
+					],
+					[
+						"dem",
+						"module-2/demo-2-3.html"
+					],
+					[
+						"demo-",
+						"module-2/demo-2-2.html"
+					],
+					[
+						"lab-2",
+						"js/lab-2-1.js"
+					],
+					[
+						"module.",
+						"js/module-2/module-2.js"
+					],
+					[
+						"module-2.js",
+						"js/module-2/module-2.js"
+					],
+					[
+						"lab-1.js",
+						"js/lab-1.js"
+					],
+					[
+						"script",
+						"script.js"
+					],
+					[
+						"scr",
+						"public_html/script.js"
+					],
+					[
+						"scrip",
+						"public_html/script.js"
+					],
+					[
+						"scritp",
+						"public_html/script.js"
+					],
+					[
+						"sytl",
+						"public_html/style.css"
+					],
+					[
+						".es",
+						".eslintrc"
+					],
+					[
+						".gi",
+						".gitignore"
+					],
+					[
+						"scit",
+						"public_html/script.js"
+					],
+					[
+						"iin",
+						"public_html/index.html"
+					],
+					[
+						"bun",
+						"public/bundle.min.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/var/www/portfolio.loc/portfolio.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 191,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/var/www/test.loc/test.loc.sublime-workspace",
+			"/var/www/transcargo.loc/transcargo.sublime-workspace",
+			"/var/www/portfolio.loc/portfolio.sublime-workspace",
+			"/var/www/start-template.loc/start-template.sublime-workspace",
+			"/home/serii/Downloads/start-template.loc/start-template.sublime-workspace"
+		]
+	}
+}
